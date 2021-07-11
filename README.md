@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thanachit Sengsalee
-- 👀 I’m interested in React native and Computer vision .
+- 👀 I’m interested in React and Computer vision .
 - 🌱 I’m currently learning C++ and React native .
 - 💞️ I’m looking to collaborate on IARC .
 - 📫 How to reach me FB : Thanachit Sengsalee .

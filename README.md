@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 ### What I've used?
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6010110455&layout=compact&langs_count=9" alt="mildronize" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6010110455&layout=compact&langs_count=9&theme=dracula" alt="mildronize" />&nbsp;
 </p>
 
 ### My Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=6010110455&show_icons=true&count_private=true&theme=default" alt="mildronize" />
+  <img src="https://github-readme-stats.vercel.app/api?username=6010110455&show_icons=true&count_private=true&theme=dracula" alt="mildronize" />
 </p>

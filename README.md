@@ -11,12 +11,17 @@ You can click the Preview link to take a look at your changes.
 --->
 ### What I've used?
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6010110455&layout=compact&langs_count=9&theme=dracula" alt="mildronize" />&nbsp;
 </p>
 
 ### My Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=6010110455&show_icons=true&count_private=true&theme=dracula" alt="mildronize" />
+</p>
+
+<summary><b>☄️ Github Streaks</b></summary>
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=6010110455&hide_border=true" />
 </p>

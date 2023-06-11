@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 ### My Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=6010110455&show_icons=true&count_private=true&theme=dracula" alt="mildronize" />
-</p>
+</p> -->
 
 <summary><b>☄️ Github Streaks</b></summary>
 <p align="center">

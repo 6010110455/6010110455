@@ -25,8 +25,3 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=6010110455&hide_border=true" />
 </p>
-
-
-<div align="center">
-  ![Snake animation](https://github.com/6010110455/6010110455/blob/output/github-contribution-grid-snake.svg)
-</div>
